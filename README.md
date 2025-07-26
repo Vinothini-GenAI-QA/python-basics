@@ -5,26 +5,26 @@ you all can see the Collection of Python practice scripts, functions, and exampl
 
 ## Topics Covered
 
-- Python syntax & variables
-- If/else conditions
-  Loops (for, while)
-- Functions
-- Working with JSON
-- Mini project examples
+Python syntax & variables
+If/else conditions
+Loops (for, while)
+Functions
+Working with JSON
+Mini project examples
 
  ## 🚀 How to Use
 
- -Clone this repository or download the `.py` files
- -Use any Python IDE (VS Code, PyCharm, or even Replit-https://replit.com/)
- -Run and modify the scripts to strengthen your Python skills
+ Clone this repository or download the `.py` files
+ Use any Python IDE (VS Code, PyCharm, or even Replit-https://replit.com/)
+ Run and modify the scripts to strengthen your Python skills
 
  ## 🗂️ Project Structure
- -hello_world.py
- -conditions.py
- -loops.py
- -functions.py
- -json_example.py
- -README.md
+ hello_world.py
+ conditions.py
+ oops.py
+ functions.py
+ json_example.py
+ README.md
 
 ## Why This Repo?
 
