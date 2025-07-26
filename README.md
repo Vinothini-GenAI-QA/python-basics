@@ -19,12 +19,13 @@ Mini project examples
  Run and modify the scripts to strengthen your Python skills
 
  ## 🗂️ Project Structure
- hello_world.py
- conditions.py
- oops.py
- functions.py
- json_example.py
- README.md
+ python-basics/
+├── hello_world.py
+├── conditions.py
+├── oops.py
+├── functions.py
+├── json_example.py
+└── README.md
 
 ## Why This Repo?
 
