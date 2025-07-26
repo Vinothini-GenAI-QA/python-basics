@@ -5,12 +5,12 @@ you all can see the Collection of Python practice scripts, functions, and exampl
 
 ## Topics Covered
 
-1.Python syntax & variables
-2.If/else conditions
-3.Loops (for, while)
-4.Functions
-5.Working with JSON
-6.Mini project examples
+1. Python syntax & variables
+2. If/else conditions
+3. Loops (for, while)
+4. Functions
+5. Working with JSON
+6. Mini project examples
 
  ## 🚀 How to Use
 
@@ -18,7 +18,14 @@ you all can see the Collection of Python practice scripts, functions, and exampl
  Use any Python IDE (VS Code, PyCharm, or even Replit-https://replit.com/)
  Run and modify the scripts to strengthen your Python skills
 
-<pre><code>## 🗂️ Project Structure ``` python-basics/ ├── hello_world.py ├── conditions.py ├── oops.py ├── functions.py ├── json_example.py └── README.md ``` </code></pre>
+## ⛩️ Project structure
+
+1. hello_world.py  
+2. conditions.py  
+3. oops.py  
+4. functions.py  
+5. json_example.py  
+6. README.md
 
 ## Why This Repo?
 
