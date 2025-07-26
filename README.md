@@ -5,12 +5,12 @@ you all can see the Collection of Python practice scripts, functions, and exampl
 
 ## Topics Covered
 
-Python syntax & variables
-If/else conditions
-Loops (for, while)
-Functions
-Working with JSON
-Mini project examples
+1.Python syntax & variables
+2.If/else conditions
+3.Loops (for, while)
+4.Functions
+5.Working with JSON
+6.Mini project examples
 
  ## 🚀 How to Use
 
