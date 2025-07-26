@@ -18,14 +18,7 @@ Mini project examples
  Use any Python IDE (VS Code, PyCharm, or even Replit-https://replit.com/)
  Run and modify the scripts to strengthen your Python skills
 
- ## 🗂️ Project Structure
- python-basics/
-├── hello_world.py
-├── conditions.py
-├── oops.py
-├── functions.py
-├── json_example.py
-└── README.md
+<pre><code>## 🗂️ Project Structure ``` python-basics/ ├── hello_world.py ├── conditions.py ├── oops.py ├── functions.py ├── json_example.py └── README.md ``` </code></pre>
 
 ## Why This Repo?
 
